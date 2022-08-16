@@ -14,7 +14,7 @@ __📍 Link:__ Short Paper | Codes | Presentation
 
 🧑‍💻 김정우 (_College of Business Administration, Chung-ang Univ._)
 
-👨‍💻 박찬호 (_College of Applied Statistics, Chung-ang Univ._)
+👨‍💻 김찬호 (_College of Applied Statistics, Chung-ang Univ._)
 
 👩‍💻 박정현 (_College of Applied Statistics, Chung-ang Univ._)
 
