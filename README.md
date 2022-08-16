@@ -1,4 +1,4 @@
-##2022년 CUAI Summer Conference Recommendation System Team 10
+## 2022년 CUAI Summer Conference Recommendation System Team 10
 
 Topic: 차애캐와 애니메이션 추천 (Recommender for secondary-favorite characater and anime)
 
