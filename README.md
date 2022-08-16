@@ -38,16 +38,24 @@ __📍 Link:__ Short Paper | Codes | Presentation
 * Feature based recommender
   * One-hot vector
   * Cosine similarity
+<img width="96" alt="image" src="https://user-images.githubusercontent.com/93517343/184798724-daabd3b7-18e8-4a4b-83cc-9e50898ee60a.png">
+<img width="162" alt="image" src="https://user-images.githubusercontent.com/93517343/184798773-96cbf95b-b909-4c2d-b196-290b566c4c44.png">
 
 
 * Description/Synopsis based recommender
   * TF-IDF
   * Cosine similarity
+<img width="87" alt="image" src="https://user-images.githubusercontent.com/93517343/184798758-43f0b8a7-b529-4b98-bd5b-814bac3121b7.png">
+<img width="161" alt="image" src="https://user-images.githubusercontent.com/93517343/184798793-73890d7d-3bb0-40d9-a95d-a3fb93349f00.png">
+
 
 #### Collaborative filtering
 
 * 'surprise' library
-  * SVD (Singular Value Decomposition)
+  * Best algorithm: SVD (Singular Value Decomposition)
+<img width="158" alt="image" src="https://user-images.githubusercontent.com/93517343/184798812-5f4adfb4-c1b8-4e58-bf11-5b25270f97b9.png">
+<img width="215" alt="image" src="https://user-images.githubusercontent.com/93517343/184798834-2d4a241d-90f4-4875-a94e-85ac2bcad90a.png">
+
 
 ---
 
