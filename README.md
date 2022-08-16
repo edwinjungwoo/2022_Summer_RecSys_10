@@ -20,7 +20,8 @@ __📍 Link:__ Short Paper | Codes | Presentation
 
 ---
 
-### Datasets
+### Datasets 📁
+
 [myanimelist](https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020?select=anime.csv)
 - anime data
 - synopsis
@@ -31,16 +32,23 @@ __📍 Link:__ Short Paper | Codes | Presentation
 
 ---
 
-### Models
+### Model Training 🖥️
 #### Contents-based filtering
 
 * Feature based recommender
+  * One-hot vector
+  * Cosine similarity
+
+
 * Description/Synopsis based recommender
+  * TF-IDF
+  * Cosine similarity
 
 #### Collaborative filtering
 
 * 'surprise' library
+  * SVD (Singular Value Decomposition)
 
 ---
 
-### Results
+### Results 🖨️
